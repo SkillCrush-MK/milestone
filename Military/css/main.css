@@ -1,0 +1,62 @@
+/*=======BODY=======*/
+body {
+    background-color:#DC143C;
+    font-family: 'Saira Stencil One', cursive;
+    margin: 0 auto;
+    text-align-last: center;
+    width: 1200px;
+}
+
+
+
+
+/****.half-width {
+    border: 1px dashed blue;
+}****/
+
+/******GRID******/
+.full-width {
+    width: 1200px;
+}
+
+.half-width {
+     width: 598px;
+}
+
+/******HEADER******/
+.half-width  {
+     float: left;
+     height: 79px;
+}
+
+nav ul li  {
+    display: inline-block;
+    padding-top: 8px;
+}
+
+nav ul li a {
+    padding: 25px;
+}
+/****DRILL INSTRUCTORS****/
+ h3 {
+     color: bisque;
+ }
+#pi, #di {
+    background-color: blanchedalmond;   
+    
+    height: 300px;
+    width: 598px;
+}
+/******MCAS****/
+#mcas, #jets {
+    background-color: blanchedalmond;
+    border: 1px solid gold;
+    height: 300px;
+    width: 598px;
+}
+#mcas,   h3 {
+    color: dodgerblue;
+}
+
+
+
